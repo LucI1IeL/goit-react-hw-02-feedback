@@ -1,0 +1,29 @@
+.divStatistics {
+  margin: 0 auto;
+  padding: 0 auto;
+  box-shadow: none;
+  width: 100%;
+}
+.labelStat {
+  margin-bottom: 10px;
+}
+
+.value {
+  font-weight: bold;
+}
+
+.valuePercentage {
+  font-size: x-large;
+  font-weight: bold;
+}
+.happy {
+  fill: #6cf75f;
+}
+
+.neutral {
+  fill: #f7b05f;
+}
+
+.sad {
+  fill: #f75f5f;
+}
